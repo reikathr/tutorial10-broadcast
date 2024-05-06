@@ -42,3 +42,31 @@ Terminal of client #2:
 Terminal of client #3:
 
 ![alt text](image-7.png)
+
+### 2.3 Small changes, add IP and Port
+
+Modification for server.rs:
+
+![alt text](image-12.png)
+
+Modification for client.rs:
+
+![alt text](image-13.png)
+
+After modifying the code in client.rs and server.rs to add IP and port information, this is the result:
+
+Terminal of server:
+
+![alt text](image-8.png)
+
+Terminal of client #1:
+
+![alt text](image-9.png)
+
+Terminal of client #2:
+
+![alt text](image-10.png)
+
+Terminal of client #3:
+
+![alt text](image-11.png)
